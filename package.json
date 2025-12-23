@@ -1,0 +1,11 @@
+{
+  "name": "project-1766518731231-ujixv86e4",
+  "private": true,
+  "version": "0.1.0",
+  "scripts": {
+    "dev": "node scripts/serve.js"
+  },
+  "devDependencies": {
+    "serve": "^14.2.0"
+  }
+}
