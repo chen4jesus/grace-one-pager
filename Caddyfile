@@ -1,0 +1,9 @@
+{
+    email {$DOMAIN_EMAIL}
+}
+
+{$DOMAIN_NAME} {
+    root * /usr/share/caddy
+    file_server
+    encode zstd gzip
+}
